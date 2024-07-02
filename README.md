@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 ## 👋 About Me
-Hi, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I enjoy creating web applications with a focus on user experience and accessibility.
+Hi there, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I specialize in creating delightful web applications with a focus on user experience and accessibility.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -35,50 +35,73 @@ Hi, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I enjoy c
 </p>
 
 <!-- Projects -->
-## 🛠️ Projects
-- **E-commerce Website**
-  - **Overview**: An e-commerce platform for online shopping.
-  - **Features**:
-    - Product catalog browsing and searching
-    - User authentication and account management
-    - Shopping cart with checkout process
-  - **Technologies Used**:
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"> Node.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"> MongoDB
-  - **Repository**: [GitHub Repository](https://github.com/your-username/e-commerce-project)
-  - **Live Link**: [Live Demo](https://your-e-commerce-website.com)
+## 🛠️ Best Projects
 
-- **Task Management App**
-  - **Overview**: A task management application for organizing tasks.
-  - **Features**:
-    - CRUD operations for tasks
-    - Task filtering and sorting options
-    - User authentication and authorization
-  - **Technologies Used**:
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"> Redux
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"> Node.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"> MongoDB
-  - **Repository**: [GitHub Repository](https://github.com/your-username/task-management-app)
-  - **Live Link**: [Live Demo](https://your-task-management-app.com)
+### Project 1: Life Partner-Matrimony Platform
 
-- **Blogging Platform**
-  - **Overview**: A platform for creating, reading, updating, and deleting blog posts.
-  - **Features**:
-    - User registration and login
-    - CRUD operations for blog posts
-    - Rich text editor for content creation
-  - **Technologies Used**:
-    - <img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="Next.js" width="20" height="20"> Next.js
-    - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="20" height="20"> Tailwind CSS
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"> Node.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
-    - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"> MongoDB
-  - **Repository**: [GitHub Repository](https://github.com/your-username/blogging-platform)
-  - **Live Link**: [Live Demo](https://your-blogging-platform.com)
+- **Overview**: A platform designed to connect individuals seeking life partners, featuring detailed biodata listings and success stories.
+- **Features**:
+  - Responsive design optimized for mobile, tablet, and desktop views
+  - Secure user authentication and registration with Firebase Authentication and Google OAuth
+  - Premium member profiles showcasing biodata details and success stories
+  - How it Works section explaining platform functionalities
+  - Success counters and success stories for user engagement
+  - Biodatas page with filters based on age, gender, and division
+  - Private biodata details with favorites management and contact request features
+  - Checkout page with Stripe API for secure payment processing
+  - Admin and user dashboards for managing profiles, contact requests, and favorites
+- **Technologies Used**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"> Node.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
+  - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"> Firebase Authentication
+  - <img src="https://stripe.com/favicon.ico" alt="Stripe" width="20" height="20"> Stripe API
+- **Live Site URL**: [Life Partner](https://life-partner-matrimon.web.app/)
+- **Repository**: [GitHub Repository](https://github.com/your-username/life-partner-matrimony)
+
+---
+
+### Project 2: Painting and Drawing
+
+- **Overview**: An e-commerce platform for art and craft items.
+- **Features**:
+  - Browse a wide variety of art and craft items
+  - Filter items by category or subcategory
+  - View detailed information and images for each item
+  - Add items to the shopping cart and checkout securely
+  - Manage user accounts and profiles
+- **Technologies Used**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"> Redux
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"> Node.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
+  - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="20" height="20"> MongoDB
+- **Live Site Link**: [C͡r͡a͡f͡t͡i͡q͡u͡e Website](https://art-craft-store-client.web.app/)
+- **Client GitHub Repository Link**: [Client Repository](https://github.com/programming-hero-web-course-4/B9A10-client-side-alaminshojib)
+- **Server GitHub Repository Link**: [Server Repository](https://github.com/programming-hero-web-course-4/b9a10-server-side-alaminshojib)
+
+---
+
+### Project 3: Hotel Booking Platform
+
+- **Overview**: A comprehensive platform for booking accommodations.
+- **Features**:
+  - Diverse selection of rooms from budget-friendly to luxurious options
+  - Interactive map integration for easy location of hotels
+  - Exclusive deals and offers with newsletter subscription
+  - Trusted user reviews for informed decision-making
+  - Secure authentication with Firebase Authentication
+- **Technologies Used**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"> Node.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
+  - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="20" height="20"> MongoDB
+  - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"> Firebase Authentication
+  - <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps" width="20" height="20"> Google Maps API
+  - <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="MailChimp" width="20" height="20"> MailChimp API
+- **Live Website Link**: [Roomies website](https://hotel-booking-platform-2229c.web.app/)
+- **Client-side Code GitHub Link**: [Client-side Repository](https://github.com/Porgramming-Hero-web-course/b9a11-client-side-alaminshojib)
+- **Server-side Code GitHub Link**: [Server-side Repository](https://github.com/Porgramming-Hero-web-course/b9a11-server-side-alaminshojib)
 
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
