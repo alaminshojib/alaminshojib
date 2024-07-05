@@ -57,7 +57,7 @@ Hi there, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I s
   - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"> Firebase Authentication
   - <img src="https://stripe.com/favicon.ico" alt="Stripe" width="20" height="20"> Stripe API
 - **Live Site URL**: [Life Partner](https://life-partner-matrimon.web.app/)
-- **Repository**: [GitHub Repository](https://github.com/your-username/life-partner-matrimony](https://github.com/alaminshojib/Life-Partner-Matrimony-Platform )
+- **Repository**: [GitHub Repository]((https://github.com/alaminshojib/Life-Partner-Matrimony-Platform )
 
 ---
 
