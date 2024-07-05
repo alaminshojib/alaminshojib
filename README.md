@@ -57,7 +57,7 @@ Hi there, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I s
   - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"> Firebase Authentication
   - <img src="https://stripe.com/favicon.ico" alt="Stripe" width="20" height="20"> Stripe API
 - **Live Site URL**: [Life Partner](https://life-partner-matrimon.web.app/)
-- **Repository**: [GitHub Repository]((https://github.com/alaminshojib/Life-Partner-Matrimony-Platform )
+- **Repository**: [GitHub Repository](https://github.com/alaminshojib/Life-Partner-Matrimony-Platform )
 
 ---
 
@@ -77,7 +77,7 @@ Hi there, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I s
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"> Express.js
   - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="20" height="20"> MongoDB
 - **Live Site Link**: [C͡r͡a͡f͡t͡i͡q͡u͡e Website](https://art-craft-store-client.web.app/)
-- **Client GitHub Repository Link**: [Client Repository](https://github.com/programming-hero-web-course-4/B9A10-client-side-alaminshojib)
+- **Client GitHub Repository Link**: [Client Repository](https://github.com/alaminshojib/Painting-and-Drawing-Website)
 - **Server GitHub Repository Link**: [Server Repository](https://github.com/programming-hero-web-course-4/b9a10-server-side-alaminshojib)
 
 ---
@@ -100,7 +100,7 @@ Hi there, I'm Md. Al-Amin, a passionate front-end developer from Bangladesh. I s
   - <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps" width="20" height="20"> Google Maps API
   - <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="MailChimp" width="20" height="20"> MailChimp API
 - **Live Website Link**: [Roomies website](https://hotel-booking-platform-2229c.web.app/)
-- **Client-side Code GitHub Link**: [Client-side Repository](https://github.com/Porgramming-Hero-web-course/b9a11-client-side-alaminshojib)
+- **Client-side Code GitHub Link**: [Client-side Repository](https://github.com/alaminshojib/hotel-booking-platform-website)
 - **Server-side Code GitHub Link**: [Server-side Repository](https://github.com/Porgramming-Hero-web-course/b9a11-server-side-alaminshojib)
 
 <!-- Connect with Me -->
